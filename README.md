@@ -1,4 +1,4 @@
-# A-Comparative-Analysis-Study-of-Common-Machine-Learning-Algorithms
+# A-Comparative-Analysis-Study-of-Common-Machine-Learning-Algorithms over Prostate adenocarcinoma dataset
 A set of machine learning algorithms were applied over Prostate adenocarcinoma dataset using jupyter notebook as an environment.
 Two files have been attached:
 PRAD labelled (Contains the information of labels at the end, features on the column and instances on the rows)
